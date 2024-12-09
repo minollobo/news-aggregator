@@ -26,7 +26,7 @@
 - Git
 
 ## Screenshots
-<img src="https://github.com/iPankajKr/Tesla-Clone/blob/master/screenshots/screenshot-1.png" alt="Desktop" height="300px"> <img src="https://github.com/iPankajKr/Tesla-Clone/blob/master/screenshots/screenshot-2.png?raw=true" alt="Phone" height="300px">
+<img src="https://raw.githubusercontent.com/minollobo/news-aggregator/refs/heads/main/project-home-ss.png" alt="Desktop" height="300px"> <img src="https://raw.githubusercontent.com/minollobo/news-aggregator/refs/heads/main/project-personalised-ss.png" alt="Phone" height="300px">
 
 
 ## Setup
