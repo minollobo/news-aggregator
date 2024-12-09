@@ -10,7 +10,6 @@
 * [Project Status](#project-status)
 * [Room for Improvement](#room-for-improvement)
 * [Acknowledgements](#acknowledgements)
-* [Contact](#contact)
 
 
 ## General Information
@@ -57,24 +56,15 @@ Project is: _in progress_
 ## Room for Improvement
 
 Room for improvement:
-- Transition effect between sections
-- Update header as per the latest website design
+- Optimize article search and filtering performance.
+- Add server-side pagination for large datasets.
+- Implement rate-limiting on API requests to improve scalability.
 
 To do:
-- Add transition between the sections on homepage
-- Replace hamburger icon with the text 'Menu'
-- Add Hover effect as seen on recent Tesla website update
+- Design and implement a custom backend API using MongoDB.
+- Set up routes for article fetching and filtering.
+- Add user authentication and personalized feed endpoints
 
 
 ## Acknowledgements
-- This project was based on [Tesla Clone with ReactJS ](https://www.youtube.com/watch?v=lUeS9Wsj6dk) by [Clever Programmer](https://www.youtube.com/channel/UCqrILQNl5Ed9Dz6CGMyvMTQ).
-- Many thanks to [Nazariy Dumanskyy](https://www.linkedin.com/in/nazariydumanskyy/) for making the tutorial quite fun and entertaining.
-
-
-## Contact
-Created by [@iPankajKr](https://github.com/iPankajKr) - feel free to contact me!
-
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+- Many thanks to [News Api](https://newsapi.org/) for providing the powerful API that makes fetching and filtering news articles seamless for this project.
