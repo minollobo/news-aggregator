@@ -1,6 +1,4 @@
 # News Aggregator
-> News Aggregator website built using ReactJS.
-> Live demo [_here_](https://tesla-clone-phi-nine.vercel.app/). 
 
 ## Table of Contents
 * [General Info](#general-information)
@@ -13,7 +11,7 @@
 
 
 ## General Information
-- Built a mobile-responsive news aggregator website using React.js. Features include article search and filtering by keyword, date, category, and source. 
+- Built a mobile-responsive news aggregator website using React.js. Features include article search and filtering by keyword, date, category, and source. Additionally, the website offers a personalized news feed, enabling users to customize their content based on preferred sources, categories, and authors. The project follows best practices and is containerized with Docker 
 
 
 ## Technologies Used
