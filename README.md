@@ -37,16 +37,16 @@ How to Run the Project using NPM:
 
 
 How to Run the Project using Docker:
-# Prerequisites
+#### Prerequisites
 - Docker installed on your local machine.
 - Logged in to Docker Hub
 
-# Pulling the Docker Image
+#### Pulling the Docker Image
 To pull the latest version of my frontend application from Docker Hub, run:
 
 - docker pull minollobo/news-app:v1.0
 
-# To start the application on your local machine
+#### To start the application on your local machine
 - docker run -p 3000:3000 minollobo/news-app:v1.0
 
 
