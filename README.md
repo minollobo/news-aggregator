@@ -45,7 +45,7 @@ To pull the latest version of my frontend application from Docker Hub, run:
 
 #### To start the application on your local machine
 - docker run -p 3000:3000 minollobo/news-app:v1.0
-
+- Docker Link [Click Here](https://hub.docker.com/r/minollobo/news-app)
 
 ## Project Status
 Project is: _in progress_
